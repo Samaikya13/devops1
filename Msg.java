@@ -1,3 +1,3 @@
 public class Msg{
 public static void main(String args[]){
-	System.out.println("Hello");}}
+	System.out.println("Hello Hi bye");}}
